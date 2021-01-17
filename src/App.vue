@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Enye logo" src="http://345451-1068034-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/09/556x300.png">
+    <img alt="Enye logo" class="img-fluid" src="http://345451-1068034-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/09/556x300.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <notifications group="foo" />
   </div>
